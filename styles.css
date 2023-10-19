@@ -6,6 +6,8 @@
     margin: 0;
     font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   }
+
+  
   
   .nav {
     padding: 14px 20px;
@@ -18,4 +20,5 @@
     /*height: 300px;*/
     padding: 0;
     border: 5px solid #000000;
+    justify-content: space-evenly;
   }
